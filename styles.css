@@ -5,6 +5,16 @@ nav {
     background-color:black;
     text-align: center;
 }
+a {
+    color:white;
+    text-decoration:none;
+    font-size: 1.5em;
+    padding:0.5em;
+}
+a:hover {
+    color:red;
+    font-size:40px;
+}
 header {
     background-color:white;
     text-align:center;
@@ -16,5 +26,6 @@ img {
 }
 footer {
     background-color:grey;
+    text-align: center;
 
 }
